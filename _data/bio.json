@@ -1,61 +1,55 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Blake Wong",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://blakee412.github.io/images/IMG_0544.JPG",
+    "email": "blakee@hawaii.edu",
+    "phone": "",
+    "website": "https://blakee412.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering department at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "1472 Hele Street",
+      "postalCode": "96734",
+      "city": "Kailua",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "blakee412",
+        "url": "http://github.com/blakee412"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Blake Wong ",
+        "url": "http://linkedin.com/in/blake-wong-198a59177"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "software engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Arduino", "Pi"
+       
       ]
     },
     {
-      "name": "data mining",
+      "name": "sustainability",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "computer repairs",
       "keywords": [
       ]
     }
-  ],
+    {
+      "name": "hardware engineering"
+      "keywords": [
+      ]
+    }  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
@@ -64,9 +58,6 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
@@ -76,15 +67,14 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2021)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
